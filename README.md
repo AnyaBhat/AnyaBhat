@@ -1,4 +1,4 @@
-![logo](https://github.com/AnyaBhat/AnyaBhat/blob/main/github.gif)
+<img align="center" alt="logo" width="1000" src="https://github.com/AnyaBhat/AnyaBhat/blob/main/github.gif">
 <h1 align="center">Hi 👋, I'm AnyaBhat</h1>
 <h3 align="center">A passionate developer from India</h3>
 
