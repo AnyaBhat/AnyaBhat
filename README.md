@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **anyabhat18@gmail.com**
 
-- ⚡ Fun fact **I am a explorer.**
+- ⚡ Fun fact **I am an explorer.**
 
 
 <h3 align="left">Connect with me:</h3>
