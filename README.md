@@ -6,7 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anyabhat&label=Profile%20views&color=0e75b6&style=flat" alt="anyabhat" /> </p>
 
-- 🌱 I’m currently learning **backend dev,java.**
+- 🌱 I’m currently on a quest
+
+-🔭  I’m currently working on something cool 😉
 
 - 📫 How to reach me **anyabhat18@gmail.com**
 
