@@ -26,12 +26,13 @@
 <div align="center">
 <a href="https://github.com/anyabhat">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anyabhat&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anyabhat&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anyabhat&theme=2077" height="180em" /> 
+<br><br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anyabhat&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anyabhat&theme=2077" height="180em" />
 </a></div>
 <div align="center">
-<a href="https://github.com/anyabhat">
-  <br>
+<a href="https://github.com/anyabhat"><br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anyabhat&theme=2077" height="180em" />
 </a>
 </div>
