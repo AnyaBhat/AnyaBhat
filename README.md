@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anyabhat&label=Profile%20views&color=0e75b6&style=flat" alt="anyabhat" /> </p>
 
-- 🌱 I’m currently on a quest
+- 🌱 I’m interested in Data Science, AI/ML and AR/VR 👩‍💻🤖🎧 
 
-- 🔭  I’m currently working on something cool 😉
+- 🔭  I’m currently working on something cool 😎😉
 
 - 📫 How to reach me **anyabhat18@gmail.com**
 
-- ⚡ Fun fact **I am an explorer.**
+- ⚡ Fun fact **I am an explorer.🗺️🧭🛫**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ananya-bhat-b7036221b/) 
